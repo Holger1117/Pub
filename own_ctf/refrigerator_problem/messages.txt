@@ -1,0 +1,128 @@
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Freezer sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Environmental temperature sensor fault 2
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Environmental temperature sensor fault 1
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Defrost sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Freezer sensor fault
+Defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Refrigerator sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Fridge defrost sensor fault
+Environmental temperature sensor fault 2
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Fridge defrost sensor fault
+Environmental temperature sensor fault 2
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Ice maker fault (if fitted)
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Refrigerator sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Freezer sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Refrigerator sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Refrigerator sensor fault
+Ice maker circuit fault (if fitted)
+Fridge defrost sensor fault
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Refrigerator sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Ice maker fault (if fitted)
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Fridge defrost sensor fault
+Ice maker circuit fault (if fitted)
+Fridge defrost sensor fault
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Freezer defrost sensor fault
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Ice maker fault (if fitted)
+Freezer sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Freezer defrost sensor fault
+Refrigerator sensor fault
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Environmental temperature sensor fault 1
+Ice maker circuit fault (if fitted)
+Fridge defrost sensor fault
+Freezer high temperature alarm
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Environmental temperature sensor fault 2
+Ice maker circuit fault (if fitted)
+Freezer high temperature alarm
+Environmental temperature sensor fault 2
+Ice maker circuit fault (if fitted)
+Refrigerator sensor fault
+Freezer sensor fault
+Freezer defrost sensor fault
