@@ -1,0 +1,1 @@
+# I told my friend about the way i found to solve his game, and he was proud of me, but gave me a new challenge. The way i did before doesn't work now and i dont know what to do! Here is the code he gave me, please help me!
