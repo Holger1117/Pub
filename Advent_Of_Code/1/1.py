@@ -19,6 +19,7 @@ def first_star():
     return total
 
 def second_star():
+    global data
     total = 0
     amount = {}
     first = []
