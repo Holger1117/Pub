@@ -1,4 +1,4 @@
-data = [line.strip() for line in open("input4.txt", "r").readlines()]
+data = [line.strip() for line in open("input.txt", "r").readlines()]
 def part1():
     count = 0
     for index, line in enumerate(data):
